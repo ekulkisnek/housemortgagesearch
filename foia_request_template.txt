@@ -1,0 +1,54 @@
+FREEDOM OF INFORMATION ACT (FOIA) REQUEST
+DuPage County Sheriff's Office
+
+Date: [DATE]
+
+To: DuPage County Sheriff's Office
+    501 N. County Farm Road
+    Wheaton, IL 60187
+    Phone: (630) 407-2000
+
+Subject: FOIA Request - Foreclosure Sale Listings
+
+Dear FOIA Officer,
+
+I am submitting this request under the Illinois Freedom of Information Act (5 ILCS 140/1 et seq.) for the following public records:
+
+REQUESTED RECORDS:
+1. Current schedule of foreclosure sales conducted by the DuPage County Sheriff's Office
+2. List of properties scheduled for foreclosure sale, including:
+   - Property addresses
+   - Case numbers
+   - Sale dates and times
+   - Opening bid amounts (if available)
+   - Any other relevant sale information
+
+FORMAT PREFERENCE:
+If possible, please provide this data in a machine-readable format such as:
+- CSV (Comma-Separated Values)
+- Excel (.xlsx)
+- JSON (JavaScript Object Notation)
+- Or any other structured data format
+
+This format would be preferred for programmatic access and data analysis purposes.
+
+FREQUENCY:
+If feasible, I would also like to know if it's possible to receive regular updates (weekly or monthly) of foreclosure sale listings. Please advise on the procedure for ongoing requests.
+
+Thank you for your assistance with this request. I look forward to your response.
+
+Sincerely,
+
+[YOUR NAME]
+[YOUR CONTACT INFORMATION]
+
+---
+
+ALTERNATIVE SHORTER REQUEST:
+
+Subject: FOIA Request - Foreclosure Sale Data
+
+I request under the Illinois FOIA the current list of properties scheduled for foreclosure sale by the DuPage County Sheriff's Office, including addresses, case numbers, and sale dates. Please provide in CSV or Excel format if possible.
+
+Thank you.
+

@@ -1,0 +1,193 @@
+{
+  "search_date": "2025-11-05T02:34:14.403737",
+  "target_area": "Northern Indiana Lake Michigan Coast",
+  "max_distance_from_beach": "1 mile",
+  "max_price": 500000,
+  "search_urls": [
+    {
+      "source": "Zillow",
+      "area": "Michigan City, IN",
+      "url": "https://www.zillow.com/homes/Michigan-City-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Michigan City, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/michigan-city_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Michigan City, IN",
+      "url": "https://www.redfin.com/city/Michigan-City-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Portage, IN",
+      "url": "https://www.zillow.com/homes/Portage-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Portage, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/portage_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Portage, IN",
+      "url": "https://www.redfin.com/city/Portage-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Ogden Dunes, IN",
+      "url": "https://www.zillow.com/homes/Ogden-Dunes-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Ogden Dunes, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/ogden-dunes_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Ogden Dunes, IN",
+      "url": "https://www.redfin.com/city/Ogden-Dunes-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Burns Harbor, IN",
+      "url": "https://www.zillow.com/homes/Burns-Harbor-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Burns Harbor, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/burns-harbor_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Burns Harbor, IN",
+      "url": "https://www.redfin.com/city/Burns-Harbor-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Gary, IN",
+      "url": "https://www.zillow.com/homes/Gary-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Gary, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/gary_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Gary, IN",
+      "url": "https://www.redfin.com/city/Gary-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Chesterton, IN",
+      "url": "https://www.zillow.com/homes/Chesterton-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Chesterton, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/chesterton_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Chesterton, IN",
+      "url": "https://www.redfin.com/city/Chesterton-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Porter, IN",
+      "url": "https://www.zillow.com/homes/Porter-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Porter, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/porter_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Porter, IN",
+      "url": "https://www.redfin.com/city/Porter-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    },
+    {
+      "source": "Zillow",
+      "area": "Valparaiso, IN",
+      "url": "https://www.zillow.com/homes/Valparaiso-IN_rb/?price=0-500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Realtor.com",
+      "area": "Valparaiso, IN",
+      "url": "https://www.realtor.com/realestateandhomes-search/valparaiso_in?maxPrice=500000",
+      "filters": "Price: $0 - $500,000"
+    },
+    {
+      "source": "Redfin",
+      "area": "Valparaiso, IN",
+      "url": "https://www.redfin.com/city/Valparaiso-IN?max-price=500000",
+      "filters": "Price: Up to $500,000"
+    }
+  ],
+  "properties_found": 0,
+  "properties_within_1_mile": 0,
+  "properties": [],
+  "recommendations": [
+    "1. Use the search URLs above to search each area",
+    "2. In each search, filter by:",
+    "   - Maximum price (e.g., under $200K, $150K, $100K)",
+    "   - Property type (houses, condos, land, mobile homes)",
+    "   - Sort by: Price (Low to High)",
+    "",
+    "3. For each property, verify distance to beach:",
+    "   - Copy property address",
+    "   - Use Google Maps to measure distance to nearest Lake Michigan beach",
+    "   - Or use: https://www.distance.to/ to calculate exact distance",
+    "",
+    "4. Best areas for beach proximity:",
+    "   - Michigan City (public beaches, downtown area)",
+    "   - Portage (near Indiana Dunes National Park)",
+    "   - Ogden Dunes (beach community, may be pricier)",
+    "   - Burns Harbor (industrial area but close to beaches)",
+    "   - Miller Beach area in Gary (beach access, may have cheaper options)",
+    "   - West Beach area",
+    "",
+    "5. Property types to consider:",
+    "   - Small houses/cottages (often cheapest)",
+    "   - Condos/townhouses",
+    "   - Mobile homes (often very affordable)",
+    "   - Vacant land (may be cheapest but need to build)",
+    "   - Fixer-uppers",
+    "",
+    "6. Additional resources:",
+    "   - Porter County Assessor: https://www.portercountyassessor.com/",
+    "   - LaPorte County Assessor: https://www.laportecounty.org/assessor",
+    "   - Lake County Assessor: https://www.lakecountyin.org/departments/assessor",
+    "   - Check property taxes before buying",
+    "",
+    "7. Distance verification:",
+    "   - Use Google Maps: Right-click property \u2192 Measure distance \u2192 Click beach",
+    "   - Or use online distance calculators",
+    "   - Remember: 1 mile = 5280 feet = ~16 city blocks"
+  ]
+}

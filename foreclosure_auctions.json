@@ -1,0 +1,23 @@
+{
+  "search_date": "2025-11-05T02:30:59.712172",
+  "total_properties": 1,
+  "properties": [
+    {
+      "source": "ILFLS",
+      "county": "DuPage",
+      "address": "1000 Jorie Blvd Ste 36",
+      "case_number": null,
+      "opening_bid": null,
+      "estimated_value": null,
+      "auction_date": null,
+      "url": "https://ilfls.com/free-daily-auction-lists/dupage",
+      "scraped_at": "2025-11-05T02:30:48.988315"
+    }
+  ],
+  "notes": [
+    "Data from free public sources",
+    "Verify all information with official sources",
+    "Prices are opening bids or estimates",
+    "Always research properties before bidding"
+  ]
+}

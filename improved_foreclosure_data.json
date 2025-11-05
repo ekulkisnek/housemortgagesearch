@@ -1,0 +1,192 @@
+{
+  "search_date": "2025-11-05T02:41:05.820000",
+  "total_properties": 23,
+  "properties": [
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "387 South Pointe Ave, South Elgin, IL 601772743 Bellwood Ave, Melrose Park, IL 60164",
+      "opening_bid": 12.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "735 Geneva Ave, Romeoville, IL 60446",
+      "opening_bid": 274.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Zillow",
+      "county": "Cook County IL",
+      "address": "15230 Meadow Ln, Dolton, IL 60419",
+      "opening_bid": 1245004.0,
+      "url": "https://www.zillow.com/cook-county-il/foreclosures/",
+      "scraped_at": "2025-11-05T02:41:04.356191"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "601041136 Park Pl, Bellwood, IL 60104",
+      "opening_bid": 1270002.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "1342 Lunt Ct, Schaumburg, IL 60193",
+      "opening_bid": 1999003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "180 Primrose Ln, Bartlett, IL 6010310 Fernwood Dr Unit L, Bolingbrook, IL 60440",
+      "opening_bid": 2000003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "6044012970 Mccarthy Rd, Lemont, IL 60439",
+      "opening_bid": 2049002.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "221 Heine Ave, Elgin, IL 60123",
+      "opening_bid": 2100002.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "2836 Hillcrest Cir, Naperville, IL 60564Sign in for address, Bellwood, IL 60104",
+      "opening_bid": 2350003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "1342 Lunt Ct, Schaumburg, IL 601932836 Hillcrest Cir, Naperville, IL 60564",
+      "opening_bid": 2699003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "221 Heine Avenue, Elgin, IL 60123",
+      "opening_bid": 3412503.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Zillow",
+      "county": "Cook County IL",
+      "address": "9532 Greenwood Dr, Des Plaines, IL 60016",
+      "opening_bid": 3499002.0,
+      "url": "https://www.zillow.com/cook-county-il/foreclosures/",
+      "scraped_at": "2025-11-05T02:41:04.356191"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "2743 Bellwood Ave, Melrose Park, IL 6016411723 S Heritage Meadows Dr, Plainfield, IL 60585",
+      "opening_bid": 4049004.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "5540 Walnut Ave Unit 11B, Downers Grove, IL 60515",
+      "opening_bid": 4099003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "231 Charlotte Ln, Bolingbrook, IL 60440",
+      "opening_bid": 4259002.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "60104387 South Pointe Ave, South Elgin, IL 60177",
+      "opening_bid": 4349004.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "12970 Mccarthy Rd, Lemont, IL 604391136 Pine Ct, Batavia, IL 60510",
+      "opening_bid": 4649003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "777 Westview Ave, Lombard, IL 60148",
+      "opening_bid": 4699004.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "10 Fernwood Dr Unit L, Bolingbrook, IL 604409N Merryoaks Rd, Streamwood, IL 60107",
+      "opening_bid": 4949003.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Zillow",
+      "county": "DuPage County IL",
+      "address": "95540 Walnut Ave APT 11B, Downers Grove, IL 60515",
+      "opening_bid": 5199006.0,
+      "url": "https://www.zillow.com/dupage-county-il/foreclosures/",
+      "scraped_at": "2025-11-05T02:41:03.579866"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "353 Foster Way, Bolingbrook, IL 60440",
+      "opening_bid": 5199006.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "1136 Park Pl, Bellwood, IL 60104180 Primrose Ln, Bartlett, IL 60103",
+      "opening_bid": 5750005.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    },
+    {
+      "source": "Redfin",
+      "county": "DuPage County",
+      "address": "1136 Pine Ct, Batavia, IL 60510Sign in for address, Bellwood, IL 60104",
+      "opening_bid": 5790002.0,
+      "url": "https://www.redfin.com/county/733/IL/DuPage-County/foreclosures",
+      "scraped_at": "2025-11-05T02:41:05.356589"
+    }
+  ],
+  "data_sources": "Combined: Government sources + General platforms",
+  "recommendation": "Visit better sources directly for most reliable data"
+}
